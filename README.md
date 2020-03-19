@@ -1,4 +1,4 @@
-# Spring Boot Exemple
+# Spring Boot Example
 
 * Profiles
 * Conection MYSQL
